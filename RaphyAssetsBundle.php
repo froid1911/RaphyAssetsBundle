@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Raphy\Symfony\RaphyAssetsBundle;
+namespace Raphy\Symfony\AssetsBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
