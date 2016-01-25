@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Raphy\Symfony\JQueryBundle;
+namespace Raphy\Symfony\RaphyAssetsBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
@@ -18,6 +18,6 @@ use Symfony\Component\HttpKernel\Bundle\Bundle;
  *
  * @author Raphael De Freitas <raphael@de-freitas.net>
  */
-class RaphyJQueryBundle extends Bundle
+class RaphyAssetsBundle extends Bundle
 {
 }
