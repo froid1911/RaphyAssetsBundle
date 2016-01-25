@@ -10,7 +10,7 @@
  */
 
 
-namespace Raphy\Symfony\AssetsBundle\Command;
+namespace Raphy\AssetsBundle\Command;
 
 use Symfony\Bundle\FrameworkBundle\Command\ContainerAwareCommand;
 use Symfony\Component\Console\Input\InputInterface;
